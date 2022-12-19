@@ -58,19 +58,9 @@
 
 ### ⚙️ GitHub Analytics
 
-<div style="float: left" >
-  <div style="width: 50%;">
-	  <img align="lef" src="https://github-readme-stats.vercel.app/api?username=vinisantoro&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-	</div>
-  <div style="width: 50%;">
-	  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=vinisantoro&theme=algolia" alt="ViniSantoro Github stats" />
-	</div>
-</div>
-
-
-  
- 
-<div> 
+<div>
+  <img align="lef" src="https://github-readme-stats.vercel.app/api?username=vinisantoro&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" width="49%" />
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=vinisantoro&theme=algolia" alt="ViniSantoro Github stats" width="49%" />
 
   ![Snake animation](https://github.com/vinisantoro/vinisantoro/blob/output/github-contribution-grid-snake.svg)
 
