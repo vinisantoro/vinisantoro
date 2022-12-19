@@ -58,26 +58,17 @@
 
 ### ⚙️ GitHub Analytics
 
-<table>
-  <tr>
-    <td>
-      <img height="50%" src="https://github-readme-stats.vercel.app/api?username=vinisantoro&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    </td>
-    <td>
-		<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=vinisantoro&theme=algolia" alt="ViniSantoro Github stats" />
-    </td>
-  </tr>
-</table>
+<div style="float: left" >
+  <div style="width: 50%;">
+	  <img align="lef" src="https://github-readme-stats.vercel.app/api?username=vinisantoro&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+	</div>
+  <div style="width: 50%;">
+	  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=vinisantoro&theme=algolia" alt="ViniSantoro Github stats" />
+	</div>
+</div>
 
-[youtube]: https://youtube.com/UC1sXnTXsI1vYGotpj8OBmkw
-[instagram]: https://instagram.com/vinisantoro
-[linkedin]: https://linkedin.com/in/viniciussantoros
-[twitch]: https://twitch.tv/sigaovini
-[mail]: vini.santoro@gmail.com
-[discord]: https://discordapp.com/users/335588869422448641
 
   
-  ##
  
 <div> 
 
@@ -85,3 +76,9 @@
 
 </div>
 
+[youtube]: https://youtube.com/UC1sXnTXsI1vYGotpj8OBmkw
+[instagram]: https://instagram.com/vinisantoro
+[linkedin]: https://linkedin.com/in/viniciussantoros
+[twitch]: https://twitch.tv/sigaovini
+[mail]: vini.santoro@gmail.com
+[discord]: https://discordapp.com/users/335588869422448641
