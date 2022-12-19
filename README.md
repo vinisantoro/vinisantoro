@@ -1,21 +1,24 @@
-## Fala galera sou o Vinícius Corrêa, engenheiro de nuvem na Oracle, apaixonado por consumir e colaborar com conteúdo de programação e tecnologia!
+## Olá, eu sou o Vinícius Corrêa
+Engenheiro de nuvem na Oracle, apaixonado por consumir e colaborar com conteúdo de programação e tecnologia!
 
+<!-- Future Github Stats
 <div align="center">
   <a href="https://github.com/vinisantoro">
   <img height="50%" src="https://github-readme-stats.vercel.app/api?username=vinisantoro&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinisantoro&layout=compact&langs_count=7&theme=gruvbox"/>
+   <img height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinisantoro&layout=compact&langs_count=7&theme=gruvbox"/> 
 </div>
+-->
 <div style="display: inline_block"><br>
   <img align="center" alt="Vini-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Vini-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Vini-OCI" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
+  <img align="center" alt="Vini-OCI" height="30" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
   <img align="center" alt="Vini-Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg">
   <img align="center" alt="Vini-PShell" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
   <img align="center" alt="Vini-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Vini-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Vini-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Vini-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="right" alt="Vini-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/20702426?width=676&height=676">
+  <img align="right" alt="Vini-pic" height="150" style="border-radius: 50%" src="https://avatars.githubusercontent.com/u/20702426?width=676&height=676">
 </div>
   
   ##
