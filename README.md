@@ -14,9 +14,9 @@
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/vinisantoro?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </div>
 
-### Hello all, Vini here👋 
+## Hello all, Vini here👋 
 
-## I'm a cloud engineer at Oracle, passionate about consuming and collaborating with programming and technology content!
+### I'm a cloud engineer at Oracle, passionate about consuming and collaborating with programming and technology content!
 
 - 📍 I'm from São Paulo (Brasil)
 - 💻 15+ Years Experience in IT Infrastructure
