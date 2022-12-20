@@ -16,7 +16,7 @@
 
 ## Hello all, Vini here👋 
 
-### I'm a cloud engineer at Oracle, passionate about consuming and collaborating with programming and technology content!
+### I'm a cloud engineer at Oracle, passionate about consuming and collaborating with Oracle Cloud, VMware, programming and technology content!
 
 - 📍 I'm from São Paulo (Brasil)
 - 💻 15+ Years Experience in IT Infrastructure
