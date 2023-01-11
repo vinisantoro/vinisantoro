@@ -28,9 +28,9 @@
 [<img alt="Vini Santoro | YouTube" src="https://img.shields.io/badge/youtube-FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />][youtube]
 [<img alt="Vini Santoro | Instagram" src="https://img.shields.io/badge/instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
 [<img alt="Vini Santoro | Twitch" src="https://img.shields.io/badge/twitch-6441a5.svg?&style=for-the-badge&logo=twitch&logoColor=white" />][twitch]
-[<img alt="Vini Santoro | Discord" src="https://img.shields.io/badge/discord-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" />][mail]
+[<img alt="Vini Santoro | Discord" src="https://img.shields.io/badge/discord-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" />][discord]
 [<img alt="Vini Santoro | LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-[<img alt="Vini Santoro | E-mail" src="https://img.shields.io/badge/gmail-ea4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" />][discord]
+[<img alt="Vini Santoro | E-mail" src="https://img.shields.io/badge/gmail-ea4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" />][mail]
 
 ---
 
