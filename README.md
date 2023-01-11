@@ -30,7 +30,7 @@
 [<img alt="Vini Santoro | Twitch" src="https://img.shields.io/badge/twitch-6441a5.svg?&style=for-the-badge&logo=twitch&logoColor=white" />][twitch]
 [<img alt="Vini Santoro | Discord" src="https://img.shields.io/badge/discord-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" />][mail]
 [<img alt="Vini Santoro | LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-[<img alt="Vini Santoro | E-mail" src="https://img.shields.io/badge/gmail-ea4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" />][mail]
+[<img alt="Vini Santoro | E-mail" src="https://img.shields.io/badge/gmail-ea4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" />][discord]
 
 ---
 
@@ -66,7 +66,7 @@
 
 </div>
 
-[youtube]: https://youtube.com/UC1sXnTXsI1vYGotpj8OBmkw
+[youtube]: https://www.youtube.com/channel/UC1sXnTXsI1vYGotpj8OBmkw
 [instagram]: https://instagram.com/vinisantoro
 [linkedin]: https://linkedin.com/in/viniciussantoros
 [twitch]: https://twitch.tv/sigaovini
