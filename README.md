@@ -63,7 +63,11 @@
   <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=vinisantoro&theme=algolia" alt="ViniSantoro Github stats" width="49%" />
 </div>
 <div>
-  ![Snake animation](https://github.com/vinisantoro/vinisantoro/blob/output/github-contribution-grid-snake.svg?palette=github-dark)
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+    <img alt="github-snake" src="github-snake.svg" />
+  </picture>
 </div>
 
 
