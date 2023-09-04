@@ -61,10 +61,11 @@
 <div>
   <img align="lef" src="https://github-readme-stats-two-rho-63.vercel.app/api?username=vinisantoro&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&cache_seconds=28800" width="49%" />
   <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=vinisantoro&theme=algolia" alt="ViniSantoro Github stats" width="49%" />
-
-  ![Snake animation](https://github.com/vinisantoro/vinisantoro/blob/output/github-contribution-grid-snake.svg)
-
 </div>
+<div>
+  ![Snake animation](https://github.com/vinisantoro/vinisantoro/blob/output/github-contribution-grid-snake.svg?palette=github-dark)
+</div>
+
 
 [youtube]: https://www.youtube.com/channel/UC1sXnTXsI1vYGotpj8OBmkw
 [instagram]: https://instagram.com/vinisantoro
