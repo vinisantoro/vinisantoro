@@ -62,14 +62,6 @@
   <img align="lef" src="https://github-readme-stats-two-rho-63.vercel.app/api?username=vinisantoro&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&cache_seconds=28800" width="49%" />
   <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=vinisantoro&theme=algolia" alt="ViniSantoro Github stats" width="49%" />
 </div>
-<div>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-    <img alt="github-snake" src="github-snake.svg" />
-  </picture>
-</div>
-
 
 [youtube]: https://www.youtube.com/channel/UC1sXnTXsI1vYGotpj8OBmkw
 [instagram]: https://instagram.com/vinisantoro
