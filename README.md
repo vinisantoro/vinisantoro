@@ -19,8 +19,8 @@
 ### I'm a cloud engineer at Oracle, passionate about consuming and collaborating with Oracle Cloud, VMware, programming and technology content!
 
 - 📍 I'm from São Paulo (Brasil)
-- 💻 15+ Years Experience in IT Infrastructure
-- 👨‍💻 Oracle Cloud VMware Solution Enthusiast & Volunteer
+- 💻 17+ Years Experience in IT Infrastructure
+- 👨‍💻 Oracle Cloud VMware Solution Enthusiast & Speaker
 - 🎙Podcast addict
 
 ### 🤝 Connect with me:
@@ -40,8 +40,6 @@
 <img alt="css3" src="https://img.shields.io/badge/css-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=fff" />&nbsp;
 <img alt="javascript" src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=fff" />&nbsp;
 <img alt="next.js" src="https://img.shields.io/badge/next.js-000.svg?&style=for-the-badge&logo=next.js&logoColor=fff" />&nbsp;
-<img alt="typescript" src="https://img.shields.io/badge/typescript-007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=fff" />&nbsp;
-<img alt="mongodb" src="https://img.shields.io/badge/mongodb-26A944.svg?&style=for-the-badge&logo=mongodb&logoColor=fff" />&nbsp;
 <img alt="powershell" src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />&nbsp;
 <img alt="shell" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />&nbsp;
 
