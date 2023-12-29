@@ -58,8 +58,8 @@
 
 ### ⚙️ GitHub Analytics
 <p align="center">
-<img src="https://github-readme-stats-two-rho-63.vercel.app/api?username=vinisantoro&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&cache_seconds=28800" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vinisantoro&theme=algolia" />
+<img src="https://github-readme-stats-two-rho-63.vercel.app/api?username=vinisantoro&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&cache_seconds=28800" heigh="150px" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vinisantoro&theme=algolia" heigh="150px" />
 </p>
 
 [youtube]: https://www.youtube.com/channel/UC1sXnTXsI1vYGotpj8OBmkw
