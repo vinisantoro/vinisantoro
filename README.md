@@ -18,10 +18,14 @@
 
 ### I'm a cloud engineer at Oracle, passionate about consuming and collaborating with Oracle Cloud, VMware, programming and technology content!
 
-- 📍 I'm from São Paulo (Brasil)
+- 📍 From São Paulo (Brasil)
 - 💻 17+ Years Experience in IT Infrastructure
 - 👨‍💻 Oracle Cloud VMware Solution Enthusiast & Speaker
-- 🎙Podcast addict
+- 🏃🏼 Runner
+- 🏎️ Kart Driver
+- 🎙 Podcast addict
+
+---
 
 ### 🤝 Connect with me:
 
