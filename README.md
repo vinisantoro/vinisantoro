@@ -19,7 +19,7 @@
 ### I'm a cloud engineer at Oracle, passionate about consuming and collaborating with Oracle Cloud, VMware, programming and technology content!
 
 - 📍 From São Paulo (Brasil)
-- 💻 17+ Years Experience in IT Infrastructure
+- 💻 18+ Years Experience in IT Infrastructure
 - 👨‍💻 Oracle Cloud VMware Solution Enthusiast & Speaker
 - 🏃🏼 Runner
 - 🏎️ Kart Driver
@@ -31,8 +31,6 @@
 
 [<img alt="Vini Santoro | YouTube" src="https://img.shields.io/badge/youtube-FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />][youtube]
 [<img alt="Vini Santoro | Instagram" src="https://img.shields.io/badge/instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
-[<img alt="Vini Santoro | Twitch" src="https://img.shields.io/badge/twitch-6441a5.svg?&style=for-the-badge&logo=twitch&logoColor=white" />][twitch]
-[<img alt="Vini Santoro | Discord" src="https://img.shields.io/badge/discord-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" />][discord]
 [<img alt="Vini Santoro | LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img alt="Vini Santoro | E-mail" src="https://img.shields.io/badge/gmail-ea4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" />][mail]
 
@@ -64,9 +62,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinisantoro&theme=algolia" align="right" height="160px" />
 </p>
 
-[youtube]: https://www.youtube.com/channel/UC1sXnTXsI1vYGotpj8OBmkw
+[youtube]: https://www.youtube.com/@sigaovini
 [instagram]: https://instagram.com/vinisantoro
 [linkedin]: https://linkedin.com/in/viniciussantoros
-[twitch]: https://twitch.tv/sigaovini
 [mail]: vini.santoro@gmail.com
-[discord]: https://discordapp.com/users/335588869422448641
